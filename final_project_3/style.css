@@ -2,3 +2,15 @@
 .back-color{
   background-color: pink !important;
 }
+
+#main_content{
+  margin-top: 20px;
+}
+
+#content_card{
+  max-height: 300px;
+}
+
+#main_img{
+  opacity: 30%;
+}
