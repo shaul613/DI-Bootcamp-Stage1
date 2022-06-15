@@ -1,4 +1,7 @@
 
+/* body{
+  margin-bottom: 100px;
+} */
 .back-color{
   background-color: pink !important;
 }
@@ -13,4 +16,18 @@
 
 #main_img{
   opacity: 30%;
+}
+
+footer{
+  height: 20%;
+}
+
+article{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.article_sec{
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
