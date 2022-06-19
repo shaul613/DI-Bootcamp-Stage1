@@ -13,15 +13,17 @@ h1~h2{
   color:blue;
 }
 
-/* #the_flag{
-  border: 10px green solid;
+#the_flag{
+  /* border: 10px green solid; */
   display: inline-block;
-  box-sizing: border-box;
-} */
+  margin-bottom: -4px;
+  /* box-sizing: border-box; */
+}
 .flag{
-  display: inline-flex;
+  display: inline-block;
   width: 50px;
   height: 100px;
+  margin-bottom: -4px;
 }
 #blue{
   background-color: blue;
