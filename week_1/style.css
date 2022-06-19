@@ -1,0 +1,10 @@
+div p{
+  background-color: yellow;
+}
+section p{
+  background-color: pink;
+}
+/* h2 must be a sibling of h1 */
+h1~h2{
+  background-color: green;
+}
